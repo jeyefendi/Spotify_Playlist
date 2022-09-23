@@ -1,3 +1,8 @@
+# Spotify Playlist
+><b>React.js <br>RestAPI<br>JSX</b>
+## [LIVE DEMO](https://spotifyplaylist.netlify.app/)
+![Logo](./COVER.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
